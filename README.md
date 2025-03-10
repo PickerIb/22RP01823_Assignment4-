@@ -35,7 +35,7 @@ The repository consists of the following directories:
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-repo-link.git
-   cd your-repo-folder
+   cd assignement4
    ```
 2. Install dependencies:
    ```sh
